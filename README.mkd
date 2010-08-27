@@ -1,0 +1,22 @@
+g2
+==
+
+g2 is a mutated version of g ( http://github.com/jugyo/g ).
+
+'g2 obj' displays information of obj in your browser!
+
+INSTALL
+-------
+
+    $ gem install sinatra haml g2
+
+
+USAGE
+-----
+try
+
+    $ ruby test.rb
+
+and open http://localhost:1291/.
+
+irb is invoked. type 'g2 [:foo]' and reload the browser.

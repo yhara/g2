@@ -1,11 +1,3 @@
-
-=begin
-仕様
-
-Sinatraでサーバを立ち上げる (ポート10170)
-
-g2 object で、
-=end
 require 'sinatra/base'
 require 'haml'
 
