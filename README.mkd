@@ -20,3 +20,20 @@ try
 and open http://localhost:1291/.
 
 irb is invoked. type 'g2 [:foo]' and reload the browser.
+
+HISTORY
+-------
+
+g2 was born in the RubyKaigi 2010 by yhara, inspired by
+jugyo's presentation. He said that the original g was to
+be something like object browsers of Smalltalk.
+
+FUTURE
+------
+
+g2 should be something like an object browser.
+
+CONTACT
+-------
+
+http://github.com/jugyo/g2
